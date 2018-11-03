@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 2, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Jordan Alexander)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment I developed a currency converting application.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://jea17b.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. In this lesson I learned how to use javascript to develop a currency exchange application.
+2. In this lesson I learned how to use if/then statements. 
+3. In this lesson I learned how to use getElementById to display text and variables.
 
